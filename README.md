@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Ibrahim
+Working as a senior engineer @ BGSW, Bangalore
+Pursuing my masters in SW Engg at BITS
+Seven years of experience in CAD/PLM customization using NX, TC
 
 <!--
 **samohamedibrahim/samohamedibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
